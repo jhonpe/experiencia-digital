@@ -3,4 +3,4 @@
 ![experiencia](./img/principal.jpg)
 
 
--[ Web Apps ](https://jhonpe.github.io/experincia-digital)
+-[ Web Apps ](https://jhonpe.github.io/experiencia-digital)
